@@ -143,7 +143,7 @@ body {
     color: var(--color-footer-strong); 
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
 
     .header{
          padding: 10%;  
